@@ -1,0 +1,10 @@
+"\",\"cost","nu","best.performance","RMSE","Pearson Correlation","P-Value"
+"Mix1",256,0.25,1720048.89839688,1.28260626638664,1,0
+"\",\"cost","nu","best.performance","RMSE","Pearson Correlation","P-Value"
+"Mix2",64,0.75,1232591.49625771,614.645380261084,0.963,0
+"\",\"cost","nu","best.performance","RMSE","Pearson Correlation","P-Value"
+"Mix3",32,0.25,1429860.6316194,638.57538007104,0.968,0
+"\",\"cost","nu","best.performance","RMSE","Pearson Correlation","P-Value"
+"Mix4",256,0.25,996883.136377533,0.986273273156434,1,0
+"\",\"cost","nu","best.performance","RMSE","Pearson Correlation","P-Value"
+"Mix5",256,0.25,767862.598665577,44.1832624562197,1,0
